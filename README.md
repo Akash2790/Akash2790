@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [rankmirror.com](rankmirror.com)
 
-- 💬 Ask me about **DevOps, GCP**
+- 💬 Ask me about **DevOps, GCP, GenAI**
 
 - 📫 How to reach me **rankmirror@gmail.com**
 
